@@ -1,11 +1,8 @@
 {
-  "Product": {
-    "name": {
-      "string": [
-        "Thor",
-        "Loki"
-       ]
-  }
-    "title": { "string": {} }
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
   }
 }
