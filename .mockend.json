@@ -1,5 +1,11 @@
 {
-  "User": {
+  "Product": {
+    "name": {
+      "string": [
+        "Thor",
+        "Loki"
+       ]
+  }
     "title": { "string": {} }
   }
 }
